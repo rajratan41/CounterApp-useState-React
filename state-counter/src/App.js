@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div className="App">
       <header>
-        <h1>Counter App using useState</h1>
+        <h1>Counter App using useState / Hooks</h1>
       </header>
       <h2>Current value of Count is {count}</h2>
       <button onClick={() => setCount(0)}>Reset Count</button>
