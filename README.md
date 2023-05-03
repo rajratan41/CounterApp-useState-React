@@ -1,2 +1,2 @@
-# useState-React
-A small project to understand useState in React
+# Created Counter App using useState Hook
+- A small project to understand useState in React
